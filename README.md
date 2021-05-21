@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rjunio98
-- 👀 I’m interested in  internship and company
+- 👋 Hi, I’1m @rjunio98
+- 👀 I’m interested in learning and helping
 - 🌱 I’m currently learning  front-end developer(HTML,CSS and JS)
 - 💞️ I’m looking to collaborate on  in my professional and personal life
 - 📫  You can find me on instagram or linkedin
