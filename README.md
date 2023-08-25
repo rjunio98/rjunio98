@@ -28,12 +28,12 @@
   
 </div>
 
-### IDE
+### IDE:
 <div>
   <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
  
-### Contatos
+### Contatos:
   <div>
   <a href="mailto:robledorjunior1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/robledojunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
