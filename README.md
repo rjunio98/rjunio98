@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/rjunio98">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rjunio98&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rjunio98.vercel.app/api/top-langs/?username=rjunio98o&show_icons=true&theme=radical&layout=compact" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rjunio98&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ### Tecnlogias Praticadas:
