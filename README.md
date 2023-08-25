@@ -1,3 +1,12 @@
+<div style="text-align: center;">
+  <h1>Olá, eu sou Robledo Junior</h1>
+</div>
+
+- 🧠 Sou desenvolvedor Web
+- 🎓 Cursando a faculdade de Análise e Desenvolvimento de Sistemas na UNIFACS
+- 🌱 Praticando com projetos as tecnologias de Web (HTML, CSS, JavaScript, ReactJs e TypeScript)
+
+
 <div>
   <a href="https://github.com/rjunio98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjunio98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
