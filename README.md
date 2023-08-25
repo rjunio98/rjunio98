@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/rjunio98">
     <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=rjunio98&show_icons=true" />
-    <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjunio98&hide_progress=true"/>
+    <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjunio98&layout=pie"/>
   </a>
 </div>
 
