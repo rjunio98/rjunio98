@@ -27,6 +27,11 @@
   
 </div>
 
+### Banco de Dados:
+<div>
+  <img align="center" alt="VsCode" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<div/>
+  
 ### Ferramentas de trabalho:
 <div>
   <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
