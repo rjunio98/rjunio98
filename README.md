@@ -4,7 +4,7 @@
 
 - 🧠 Sou desenvolvedor Front-end
 - 🎓 Cursando a faculdade de Análise e Desenvolvimento de Sistemas na UNIFACS
-- 🌱 Tenho trabalhado com uma variedade de linguagens de programação demandadas do mercado (HTML, CSS, JavaScript, ReactJs,TypeScript ...) e estou sempre empolgado para aprender algo novo.
+- 🌱 Tenho trabalhado com uma variedade de linguagens de programação demandadas do mercado, incluindo HTML, CSS, JavaScript, ReactJs,TypeScript ... E estou sempre empolgado para aprender algo novo.
 
 <div>
   <a href="https://github.com/rjunio98">
