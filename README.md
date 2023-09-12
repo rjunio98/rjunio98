@@ -2,9 +2,9 @@
   <h1>Olá, eu sou Robledo Junior</h1>
 </div>
 
-- 🧠 Sou desenvolvedor Web
+- 🧠 Sou desenvolvedor Front-end
 - 🎓 Cursando a faculdade de Análise e Desenvolvimento de Sistemas na UNIFACS
-- 🌱 Praticando com projetos as tecnologias de Web (HTML, CSS, JavaScript, ReactJs e TypeScript)
+- 🌱 Fazendo projetos com as tecnologias mais demandadas do mercado (HTML, CSS, JavaScript, ReactJs,TypeScript ...)
 
 <div>
   <a href="https://github.com/rjunio98">
