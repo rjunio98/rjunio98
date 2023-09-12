@@ -9,8 +9,6 @@
 
 <div>
   <a href="https://github.com/rjunio98">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?rjunio98=rjunio98&theme=dark" />
-    
   </a>
 </div>
 
