@@ -45,8 +45,10 @@
   <img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjunio98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <div>
+   <a href="https://github.com/rjunio98">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjunio98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjunio98&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
 ### Contatos:
