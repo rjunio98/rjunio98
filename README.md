@@ -46,7 +46,7 @@
 </div>
 
 <div>
-  https://github-readme-stats.vercel.app/api?rjunio98=anuraghazra&show_icons=true&theme=transparent
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjunio98&show_icons=true&theme=transparent)
 </div>
  
 ### Contatos:
