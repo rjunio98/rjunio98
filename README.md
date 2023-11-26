@@ -46,7 +46,7 @@
 </div>
 
 <div>
-  [![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rjunio98&show_icons=true&theme=transparent)](URL_DO_SEU_LINK)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjunio98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
  
 ### Contatos:
