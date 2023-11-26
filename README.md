@@ -46,7 +46,7 @@
 </div>
 
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjunio98&show_icons=true&theme=transparent)
+  [![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rjunio98&show_icons=true&theme=transparent)](URL_DO_SEU_LINK)
 </div>
  
 ### Contatos:
