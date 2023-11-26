@@ -44,6 +44,10 @@
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
+
+<div>
+  https://github-readme-stats.vercel.app/api?rjunio98=anuraghazra&show_icons=true&theme=transparent
+</div>
  
 ### Contatos:
   <div>
