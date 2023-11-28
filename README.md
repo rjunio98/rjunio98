@@ -9,8 +9,6 @@
   <p>🌱 Sempre empolgado para aprender algo novo e acompanhar as últimas tendências no desenvolvimento web.</p>
 </div>
 
-<br />
-
 ---
 ### Front End:
 <div style="display: inline_block">
