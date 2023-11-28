@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <p>👩‍💻 Desenvolvedor Full Stack | 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFACS</p>
+  <p>👩‍💻 Desenvolvedor Full Stack </p>
+  <p>🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFACS</p>
   <p>🚀 Trabalhando com Next.js, JavaScript, React.js, TypeScript, Java e mais</p>
   <p>🌱 Sempre empolgado para aprender algo novo e acompanhar as últimas tendências no desenvolvimento web.</p>
 </div>
