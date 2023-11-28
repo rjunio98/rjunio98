@@ -44,17 +44,17 @@
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
-
-<br><br>
- <div>
-   <a href="https://github.com/rjunio98">
-   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjunio98&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
  
 ### Contatos:
   <div>
   <a href="mailto:robledorjunior1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/robledojunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <br><br>
+  <div>
+   <a href="https://github.com/rjunio98">
+   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjunio98&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
   ![Snake animation](https://github.com/rjunio98/rjunio98/blob/output/github-contribution-grid-snake.svg)
 </div>
