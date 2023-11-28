@@ -1,14 +1,18 @@
-<div style="text-align: center;">
+<div align="center">
   <h1>Olá, eu sou Robledo Junior</h1>
 </div>
 
-- 👩‍💻 Sou desenvolvedor Full Stack
-- 🎓 Cursando a faculdade de Análise e Desenvolvimento de Sistemas na UNIFACS
-- 🌱 Tenho trabalhado com uma variedade de linguagens de programação demandadas do mercado, incluindo NextJs, JavaScript, ReactJs, TypeScript, Java ...
-- 🧠 Estou sempre empolgado para aprender algo novo e acompanhar as últimas tendências no mundo do desenvolvimento web.
+<div align="center">
+  <p>👩‍💻 Desenvolvedor Full Stack | 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFACS</p>
+  <p>🚀 Trabalhando com Next.js, JavaScript, React.js, TypeScript, Java e mais</p>
+  <p>🌱 Sempre empolgado para aprender algo novo e acompanhar as últimas tendências no desenvolvimento web.</p>
+</div>
 
-<div>
+<br />
+
+<div align="center">
   <a href="https://github.com/rjunio98">
+    <img src="https://img.shields.io/badge/GitHub-Profile-blue" alt="GitHub Profile">
   </a>
 </div>
 
