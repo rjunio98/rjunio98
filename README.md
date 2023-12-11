@@ -12,7 +12,7 @@
 ---
 <div style="display: flex; justify-content: space-between;">
 
-### Front end
+### Front End
   <!-- Front-end -->
   <div>
     <img style="margin-bottom: 10px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -33,6 +33,7 @@
     <img style="margin-bottom: 10px" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   </div>
 
+  ### Ferramentas de Trabalho
   <!-- Ferramentas de Trabalho -->
   <div>
     <img style="margin-bottom: 10px" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
