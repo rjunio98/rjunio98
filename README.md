@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou Robledo Junior</h1>
+  <p>Sou um desenvolvedor Full Stack apaixonado por transformar ideias em soluções incríveis. Com uma sólida formação em desenvolvimento web e uma paixão por aprender, estou sempre em busca de novos desafios para aprimorar minhas habilidades e criar experiências digitais excepcionais.</p>
 </div>
 
 <div align="center">
