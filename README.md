@@ -31,7 +31,8 @@
     <img style="margin-bottom: 10px" alt="Express.js" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img style="margin-bottom: 10px" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img style="margin-bottom: 10px" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-    <i class="devicon-spring-plain-wordmark colored"></i>
+    <img src="caminho/para/o/seu/icone/devicon-spring-plain-wordmark.svg" alt="Spring" width="40" height="40"/>
+
           
   </div>
 
