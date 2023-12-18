@@ -3,11 +3,14 @@
 </div>
 
 <div align="center">
-  <p>👩‍💻 Sou um desenvolvedor Full Stack apaixonado por transformar ideias em soluções incríveis. Com uma sólida formação em desenvolvimento web e uma paixão por aprender, estou sempre em busca de novos desafios para aprimorar minhas habilidades e criar experiências digitais excepcionais </p>
-  - fdfdfdfdfdfd
-  <p>🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFACS</p>
-  <p>🚀 Trabalhando com Next.js, JavaScript, React.js, TypeScript, Java e mais</p>
-  <p>🌱 Sempre empolgado para aprender algo novo e acompanhar as últimas tendências no desenvolvimento web.</p>
+  - 👨‍💻 Sou um desenvolvedor Full Stack apaixonado por transformar ideias em soluções incríveis. Com uma sólida formação em desenvolvimento web e uma paixão por aprender, estou sempre em busca de novos desafios para aprimorar minhas habilidades e criar experiências digitais excepcionais.
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFACS
+
+- 🚀 Trabalhando com Next.js, JavaScript, React.js, TypeScript, Java e mais
+
+- 🌱 Sempre empolgado para aprender algo novo e acompanhar as últimas tendências no desenvolvimento web.
+
 </div>
 
 ---
