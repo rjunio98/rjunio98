@@ -10,9 +10,7 @@
 
 - 🌱 Sempre empolgado para aprender algo novo e acompanhar as últimas tendências no desenvolvimento web.
 
-- 🎲 Fora da tecnologia, sou entusiasta de xadrez e jogos de tabuleiro. Gosto também de filmes de ficção, apreciando narrativas cativantes para estimular a imaginação e proporcionar entretenimento.
-
--  📚 Também sou ávido leitor de temas relacionados ao desenvolvimento pessoal e psicologia, buscando constantemente compreender mais sobre o funcionamento da mente humana e encontrar maneiras de aplicar esses conhecimentos no meu dia a dia.
+- 🎲 Fora da tecnologia, sou entusiasta de xadrez e jogos de tabuleiro. Gosto também de filmes de ficção.
 
 ---
 <div style="display: flex; justify-content: space-between;">
