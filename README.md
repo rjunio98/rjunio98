@@ -2,7 +2,7 @@
   <h1>Olá, eu sou Robledo Junior, um desenvolvedor Full Stack apaixonado pelo que faz</h1>
 </div>
 
-- 👨‍💻 Desenvolvedor Full Stack apaixonado por transformar ideias em soluções incríveis. Com uma sólida formação em desenvolvimento web e uma paixão por aprender, estou sempre em busca de novos desafios para aprimorar minhas habilidades e criar experiências digitais excepcionais. Iniciei minha jornada tecnológica em uma aula de informática na infância, e, mesmo após começar na área de veterinária, minha verdadeira paixão pela tecnologia falou mais alto. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
+- 👨‍💻 Desenvolvedor Software apaixonado por transformar ideias em soluções incríveis. Com uma sólida formação em desenvolvimento web e uma paixão por aprender, estou sempre em busca de novos desafios para aprimorar minhas habilidades e criar experiências digitais excepcionais. Iniciei minha jornada tecnológica em uma aula de informática na infância, e, mesmo após começar na área de veterinária, minha verdadeira paixão pela tecnologia falou mais alto. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFACS
 
