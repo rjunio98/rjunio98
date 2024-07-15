@@ -6,7 +6,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFACS
 
-- 🚀 Trabalhando com Next.js, JavaScript, React.js, TypeScript, Java e mais
+- 🚀 Trabalhando e Estudando Next.js, JavaScript, React.js, TypeScript, Java e mais
 
 - 🌱 Sempre empolgado para aprender algo novo e acompanhar as últimas tendências no desenvolvimento web.
 
