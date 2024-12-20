@@ -1,19 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou Robledo Junior, um Desenvolvedor Software apaixonado pelo que faz</h1>
 </div>
-
-- 👨‍💻 Desenvolvedor Software apaixonado por transformar ideias em soluções incríveis. Com uma sólida formação em desenvolvimento web e uma paixão por aprender, estou sempre em busca de novos desafios para aprimorar minhas habilidades e criar experiências digitais excepcionais. Iniciei minha jornada tecnológica em uma aula de informática na infância, e, mesmo após começar na área de veterinária, minha verdadeira paixão pela tecnologia falou mais alto. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFACS
-
-- 🚀 Trabalhando e Estudando Next.js, JavaScript, React.js, TypeScript, Java e mais
-
-- 🌱 Sempre empolgado para aprender algo novo e acompanhar as últimas tendências no desenvolvimento web.
-
-- 🎲 Fora da tecnologia, sou entusiasta de xadrez e jogos de tabuleiro. Gosto também de filmes de ficção.
-
----
-<div style="display: flex; justify-content: space-between;">
 
 ### Front End
   <!-- Front-end -->
