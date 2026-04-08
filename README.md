@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá, eu sou Robledo Junior</h2>
+<h2 align="left">👋 Olá, eu sou Robledo Junior</h2>
 
 ###
 
