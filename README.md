@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
   <a href="mailto:robledorjunior1@gmail.com">
-  <img src="gmail-icon.png" alt="Email" width="40">
+  robledorjunior1@gmail.com
 </a>
 </div>
 
