@@ -10,6 +10,25 @@
 
 ###
 
+<h3 align="left">🧠 Tecnologias e Ferramentas</h3>
+
+###
+
+<p align="left">
+### 📊 Dados & Análise<br><br>* Python<br>* SQL<br>* Excel <br>* Power BI</p>
+
+###
+
+<p align="left">
+### 📈 Marketing & Analytics<br><br>* Google Ads<br>* Meta Ads<br>* Google Analytics</p>
+
+###
+
+<p align="left">
+### 💻 Desenvolvimento (Diferencial)<br><br>* JavaScript<br>* HTML<br>* CSS<br>* React</p>
+
+###
+
 
 <div align="center">
 </div>
