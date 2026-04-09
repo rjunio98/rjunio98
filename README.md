@@ -5,8 +5,6 @@
   • 📊 Focado em Análise de Dados e Growth (Mídia de Performance)
 </p>
 
-###
-
 <p align="left">• Uso este GitHub como meu portfólio de projetos em análise de dados, com foco em métricas, campanhas e geração de insights. Atualmente busco minha primeira oportunidade como estagiário na área</p>
 
 <hr>
