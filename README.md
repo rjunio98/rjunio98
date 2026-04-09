@@ -2,6 +2,7 @@
 
 ###
 
+<h2> 👉 SOBRE MIM </h2>
 <p align="left">🎓 Estudante de Administração<br><br>📊 Focado em Análise de Dados e Growth (Mídia de Performance)</p>
 
 ###
